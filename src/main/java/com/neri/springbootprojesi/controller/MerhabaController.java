@@ -1,4 +1,4 @@
-package com.neri.springbootprojesi;
+package com.neri.springbootprojesi.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
